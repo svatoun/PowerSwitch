@@ -1,0 +1,28 @@
+Partlist
+
+Exported from grid1-4.brd at 06.04.18 22:21
+
+EAGLE Version 6.6.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library      Position (mm)         Orientation
+
+C1       100nF          C050-025X075 resistor     (34.29 52.07)         R180
+C2       100uF          E2,5-6       rcl          (38.1 63.5)           R180
+IC1      PIC12F629P     DIL8         microchip    (48.26 46.99)         R180
+IC2      ULN2003AN      DIL16        uln-udn      (53.34 26.67)         R270
+IC3      78S05          TO220V       linear       (36.83 54.61)         R180
+JP1                     1X06         pinhead      (45.72 39.37)         R180
+PWR                     AK500/2      con-ptr500   (36.83 71.12)         MR180
+R1       RELEM3S06T     VIGAN        custom       (49.53 62.23)         R270
+R2       RELEM3S06T     VIGAN        custom       (73.66 67.31)         R0
+R3       RELEM3S06T     VIGAN        custom       (73.66 52.07)         R0
+R4       RELEM3S06T     VIGAN        custom       (73.66 39.37)         R0
+R5       RELEM3S06T     VIGAN        custom       (73.66 24.13)         R0
+R6       47k            0207/10      resistor     (36.83 45.72)         R60
+S1                      B3F-10XX     switch-omron (39.37 20.32)         R0
+X1                      AK500/2      con-ptr500   (88.9 64.77)          R90
+X2                      AK500/2      con-ptr500   (88.9 54.61)          R90
+X3                      AK500/2      con-ptr500   (88.9 44.45)          R90
+X4                      AK500/2      con-ptr500   (88.9 34.29)          R90
